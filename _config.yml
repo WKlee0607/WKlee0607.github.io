@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "WONGYU LEE / Site Title"
+title                    : "WONGYU LEE"
 title_separator          : "-"
 name                     : &name "WONGYU LEE"
 description              : &description "personal description"
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "WONGYU LEE"
   pronouns         : # example: "she/her"  
-  bio              : "I am an M.S. candidate at Kyung Hee University's Visual Science Lab (VSLab), advised by Prof. MyeongAh Cho. My research focuses on Sound Source Localization and Video Anomaly Detection."
-  location         : "1732 Deogyeong-daero, Giheung-gu, Yongin-si, Gyeonggi-do, Republic of Korea"
+  bio              : "M.S. candidate at Kyung Hee University"
+  location         : # "1732 Deogyeong-daero, Giheung-gu, Yongin-si, Gyeonggi-do, Republic of Korea"
   employer         : "KyungHee University"
   uri              : # URL
   email            : "fovert@khu.ac.kr" 
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/WKlee0607/"
+  github           : "WKlee0607/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
