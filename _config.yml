@@ -25,11 +25,12 @@ author:
   avatar           : "profile.png"
   name             : "WONGYU LEE"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. candidate at Kyung Hee University."
+  bio              : "M.S. candidate at Kyung Hee University, Republic of Korea."
   location         : # "1732 Deogyeong-daero, Giheung-gu, Yongin-si, Gyeonggi-do, Republic of Korea"
   employer         : "KyungHee University"
   uri              : # URL
   email            : "fovert@khu.ac.kr" 
+  cv               : 
 
   # Academic websites
   academia         : # URL
